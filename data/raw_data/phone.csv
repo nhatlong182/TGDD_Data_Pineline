@@ -1,0 +1,147 @@
+product_name,current_price,price,percent_discount,rating,link,brand_id,series,genre_name
+iPhone 14 Pro Max 128GB,26.490.000₫,29.990.000₫,-11%,348,https://www.thegioididong.com/dtdd/iphone-14-pro-max,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro 128GB,24.490.000₫,27.990.000₫,-12%,168,https://www.thegioididong.com/dtdd/iphone-14-pro,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 128GB,19.190.000₫,21.990.000₫,-12%,109,https://www.thegioididong.com/dtdd/iphone-14,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Plus 128GB,21.790.000₫,24.990.000₫,-12%,92,https://www.thegioididong.com/dtdd/iphone-14-plus,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro Max 1TB,41.990.000₫,43.990.000₫,,,https://www.thegioididong.com/dtdd/iphone-14-pro-max-1tb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro Max 512GB,35.990.000₫,37.990.000₫,-5%,60,https://www.thegioididong.com/dtdd/iphone-14-pro-max-512gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro 512GB,33.490.000₫,35.990.000₫,-6%,14,https://www.thegioididong.com/dtdd/iphone-14-pro-512gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro Max 256GB,29.490.000₫,32.990.000₫,-10%,201,https://www.thegioididong.com/dtdd/iphone-14-pro-max-256gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Pro 256GB,27.290.000₫,29.990.000₫,-9%,91,https://www.thegioididong.com/dtdd/iphone-14-pro-256gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 Plus 256GB,23.990.000₫,27.990.000₫,,,https://www.thegioididong.com/dtdd/iphone-14-plus-256gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 14 256GB,22.290.000₫,24.990.000₫,-10%,31,https://www.thegioididong.com/dtdd/iphone-14-256gb,01,"iPhone 14 (Plus, Pro, Pro Max)",phone
+iPhone 13 256GB,19.990.000₫,20.990.000₫,-4%,86,https://www.thegioididong.com/dtdd/iphone-13-256gb,01,"iPhone 13 (Mini, Pro, Pro Max)",phone
+iPhone 13 128GB,16.990.000₫,18.990.000₫,-10%,424,https://www.thegioididong.com/dtdd/iphone-13,01,"iPhone 13 (Mini, Pro, Pro Max)",phone
+iPhone 12 128GB,14.990.000₫,18.990.000₫,-21%,165,https://www.thegioididong.com/dtdd/iphone-12-128gb,01,"iPhone 12 (Mini, Pro, Pro Max)",phone
+iPhone 12 64GB,13.990.000₫,17.990.000₫,-22%,306,https://www.thegioididong.com/dtdd/iphone-12,01,"iPhone 12 (Mini, Pro, Pro Max)",phone
+iPhone 11 64GB,10.390.000₫,11.990.000₫,-13%,784,https://www.thegioididong.com/dtdd/iphone-11,01,iPhone 11,phone
+iPhone 11 128GB,11.990.000₫,13.990.000₫,-14%,505,https://www.thegioididong.com/dtdd/iphone-11-128gb,01,iPhone 11,phone
+Samsung Galaxy Z Fold5 5G 256GB,36.990.000₫,40.990.000₫,-9%,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold5,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Fold4 5G 256GB,26.990.000₫,40.990.000₫,-34%,77,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold4,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Fold5 5G 1TB,47.990.000₫,51.990.000₫,-7%,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold5-5g-1tb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Fold5 5G 512GB,40.990.000₫,44.990.000₫,-8%,3,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold5-5g-512gb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Fold4 5G 512GB,29.890.000₫,44.490.000₫,,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold4-5g-512gb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Flip5 5G 512GB,25.990.000₫,,,3,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip5-5g-512gb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Flip5 5G 256GB,21.990.000₫,,,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip5,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Flip4 5G 256GB,17.990.000₫,25.990.000₫,-30%,32,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4-5g-256gb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Flip4 5G 512GB,17.990.000₫,29.490.000₫,-38%,31,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4-5g-512gb,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy Z Flip4 5G 128GB,14.990.000₫,23.990.000₫,,,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip4,02,Galaxy Z (Màn hình gập),phone
+Samsung Galaxy A14 6GB,4.540.000₫,4.990.000₫,-9%,306,https://www.thegioididong.com/dtdd/samsung-galaxy-a14,02,Galaxy A,phone
+Samsung Galaxy A24 6GB,5.890.000₫,6.490.000₫,-9%,29,https://www.thegioididong.com/dtdd/samsung-galaxy-a24,02,Galaxy A,phone
+Samsung Galaxy A34 5G 256GB,9.490.000₫,,,82,https://www.thegioididong.com/dtdd/samsung-galaxy-a34,02,Galaxy A,phone
+Samsung Galaxy A04s,3.590.000₫,3.990.000₫,-10%,309,https://www.thegioididong.com/dtdd/samsung-galaxy-a04s,02,Galaxy A,phone
+Samsung Galaxy A54 5G 256GB,11.490.000₫,,,,https://www.thegioididong.com/dtdd/samsung-galaxy-a54,02,Galaxy A,phone
+Samsung Galaxy A54 5G 128GB,10.490.000₫,,,150,https://www.thegioididong.com/dtdd/samsung-galaxy-a54-5g-128gb,02,Galaxy A,phone
+Samsung Galaxy A34 5G 128GB,8.490.000₫,,,244,https://www.thegioididong.com/dtdd/samsung-galaxy-a34-5g-128gb,02,Galaxy A,phone
+Samsung Galaxy A53 5G 128GB,6.990.000₫,9.990.000₫,-30%,379,https://www.thegioididong.com/dtdd/samsung-galaxy-a53,02,Galaxy A,phone
+Samsung Galaxy A24 8GB,6.390.000₫,6.990.000₫,-8%,40,https://www.thegioididong.com/dtdd/samsung-galaxy-a24-8gb,02,Galaxy A,phone
+Samsung Galaxy A33 5G 6GB,6.290.000₫,7.290.000₫,-13%,,https://www.thegioididong.com/dtdd/samsung-galaxy-a33,02,Galaxy A,phone
+Samsung Galaxy A23 5G 4GB,5.190.000₫,5.990.000₫,-13%,42,https://www.thegioididong.com/dtdd/samsung-galaxy-a23-5g,02,Galaxy A,phone
+Samsung Galaxy A23 4GB,4.690.000₫,5.690.000₫,-17%,197,https://www.thegioididong.com/dtdd/samsung-galaxy-a23,02,Galaxy A,phone
+Samsung Galaxy A14 5G,4.490.000₫,5.190.000₫,-13%,70,https://www.thegioididong.com/dtdd/samsung-galaxy-a14-5g,02,Galaxy A,phone
+Samsung Galaxy A23 6GB,4.290.000₫,6.190.000₫,-30%,367,https://www.thegioididong.com/dtdd/samsung-galaxy-a23-6gb,02,Galaxy A,phone
+Samsung Galaxy A13 6GB,4.190.000₫,4.690.000₫,-10%,,https://www.thegioididong.com/dtdd/samsung-galaxy-a13-6gb,02,Galaxy A,phone
+Samsung Galaxy A14 4GB,4.190.000₫,4.490.000₫,-6%,224,https://www.thegioididong.com/dtdd/samsung-galaxy-a14-4gb,02,Galaxy A,phone
+Samsung Galaxy A04 (4GB/64GB),3.340.000₫,3.490.000₫,-4%,221,https://www.thegioididong.com/dtdd/samsung-galaxy-a04-4gb-64gb,02,Galaxy A,phone
+Samsung Galaxy A04 (3GB/32GB),2.990.000₫,,,169,https://www.thegioididong.com/dtdd/samsung-galaxy-a04,02,Galaxy A,phone
+Samsung Galaxy S21 FE 5G (6GB/128GB),9.990.000₫,12.990.000₫,-23%,90,https://www.thegioididong.com/dtdd/samsung-galaxy-s21-fe-6gb,02,Galaxy S,phone
+Samsung Galaxy S23 Ultra 5G 256GB,25.990.000₫,31.990.000₫,-18%,64,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-ultra,02,Galaxy S,phone
+Samsung Galaxy S23+ 5G 256GB,23.990.000₫,26.990.000₫,-11%,43,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-plus,02,Galaxy S,phone
+Samsung Galaxy S23 Ultra 5G 512GB,29.990.000₫,36.990.000₫,-18%,75,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-ultra-5g-512gb,02,Galaxy S,phone
+Samsung Galaxy S23+ 5G 512GB,26.990.000₫,29.990.000₫,,,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-plus-5g-512gb,02,Galaxy S,phone
+Samsung Galaxy S23 5G 256GB,21.990.000₫,24.990.000₫,-12%,10,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-5g-256gb,02,Galaxy S,phone
+Samsung Galaxy S23 5G 128GB,19.990.000₫,22.990.000₫,-13%,32,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-5g,02,Galaxy S,phone
+Samsung Galaxy S22 Ultra 5G 128GB,17.990.000₫,30.990.000₫,-41%,159,https://www.thegioididong.com/dtdd/samsung-galaxy-s22-ultra,02,Galaxy S,phone
+Samsung Galaxy S21 FE 5G (8GB/256GB),11.990.000₫,18.990.000₫,-36%,157,https://www.thegioididong.com/dtdd/samsung-galaxy-s21-fe-256gb,02,Galaxy S,phone
+Samsung Galaxy S21 FE 5G (8GB/128GB),10.990.000₫,16.990.000₫,,,https://www.thegioididong.com/dtdd/samsung-galaxy-s21-fe,02,Galaxy S,phone
+OPPO Find N2 Flip 5G,19.990.000₫,,,39,https://www.thegioididong.com/dtdd/oppo-find-n2-flip,03,OPPO Find N,phone
+OPPO A98 5G,8.990.000₫,,,205,https://www.thegioididong.com/dtdd/oppo-a98-5g,03,OPPO A,phone
+OPPO A78,6.490.000₫,6.990.000₫,-7%,51,https://www.thegioididong.com/dtdd/oppo-a78,03,OPPO A,phone
+OPPO A96,6.190.000₫,6.990.000₫,-11%,133,https://www.thegioididong.com/dtdd/oppo-a96-4g,03,OPPO A,phone
+OPPO A76,5.990.000₫,,,157,https://www.thegioididong.com/dtdd/oppo-a76-4g,03,OPPO A,phone
+OPPO A58 8GB,5.990.000₫,,,,https://www.thegioididong.com/dtdd/oppo-a58-4g,03,OPPO A,phone
+OPPO A77s,5.590.000₫,6.290.000₫,-11%,142,https://www.thegioididong.com/dtdd/oppo-a77s,03,OPPO A,phone
+OPPO A58 6GB,4.690.000₫,4.990.000₫,-6%,5,https://www.thegioididong.com/dtdd/oppo-a58,03,OPPO A,phone
+OPPO A38,4.490.000₫,,,,https://www.thegioididong.com/dtdd/oppo-a38,03,OPPO A,phone
+OPPO A57 128GB,4.190.000₫,4.990.000₫,-16%,286,https://www.thegioididong.com/dtdd/oppo-a57-128gb,03,OPPO A,phone
+OPPO A17,3.690.000₫,3.990.000₫,-7%,,https://www.thegioididong.com/dtdd/oppo-a17,03,OPPO A,phone
+OPPO A17K,2.990.000₫,3.290.000₫,-9%,142,https://www.thegioididong.com/dtdd/oppo-a17k,03,OPPO A,phone
+OPPO Find X5 Pro 5G,19.990.000₫,32.990.000₫,-39%,16,https://www.thegioididong.com/dtdd/oppo-find-x5-pro,03,OPPO Find X,phone
+OPPO Reno10 5G 128GB,9.990.000₫,,,4,https://www.thegioididong.com/dtdd/oppo-reno10-5g-128gb,03,OPPO Reno,phone
+OPPO Reno8 T 5G 128GB,8.990.000₫,9.990.000₫,-10%,94,https://www.thegioididong.com/dtdd/oppo-reno8-t-5g,03,OPPO Reno,phone
+OPPO Reno10 Pro+ 5G,19.990.000₫,,,,https://www.thegioididong.com/dtdd/oppo-reno10-pro-plus,03,OPPO Reno,phone
+OPPO Reno8 Pro 5G,17.490.000₫,18.990.000₫,-7%,54,https://www.thegioididong.com/dtdd/oppo-reno8-pro,03,OPPO Reno,phone
+OPPO Reno6 Pro 5G,13.990.000₫,,,,https://www.thegioididong.com/dtdd/oppo-reno6-pro-5g,03,OPPO Reno,phone
+OPPO Reno10 Pro 5G,13.990.000₫,,,6,https://www.thegioididong.com/dtdd/oppo-reno10-pro,03,OPPO Reno,phone
+OPPO Reno8 5G,12.490.000₫,13.990.000₫,-10%,162,https://www.thegioididong.com/dtdd/oppo-reno8,03,OPPO Reno,phone
+OPPO Reno10 5G 256GB,10.990.000₫,,,21,https://www.thegioididong.com/dtdd/oppo-reno10,03,OPPO Reno,phone
+OPPO Reno8 T 5G 256GB,10.690.000₫,10.990.000₫,,81,https://www.thegioididong.com/dtdd/oppo-reno8-t-5g-256gb,03,OPPO Reno,phone
+OPPO Reno7 5G,7.990.000₫,,,,https://www.thegioididong.com/dtdd/oppo-reno7,03,OPPO Reno,phone
+OPPO Reno7 Z 5G,7.490.000₫,,,141,https://www.thegioididong.com/dtdd/oppo-reno7-z,03,OPPO Reno,phone
+OPPO Reno8 T,7.490.000₫,8.490.000₫,-11%,55,https://www.thegioididong.com/dtdd/oppo-reno8-t,03,OPPO Reno,phone
+Xiaomi 12T 5G 256GB,11.990.000₫,12.990.000₫,-7%,136,https://www.thegioididong.com/dtdd/xiaomi-12t-256gb,04,Xiaomi Mi,phone
+Xiaomi 13 5G,19.990.000₫,22.990.000₫,-13%,25,https://www.thegioididong.com/dtdd/xiaomi-13,04,Xiaomi Mi,phone
+Xiaomi 13 Lite 5G,9.990.000₫,11.490.000₫,-13%,62,https://www.thegioididong.com/dtdd/xiaomi-13-lite-5g,04,Xiaomi Mi,phone
+Xiaomi Redmi 12 8GB,4.290.000₫,4.790.000₫,-10%,1073,https://www.thegioididong.com/dtdd/xiaomi-redmi-12,04,Xiaomi Redmi,phone
+Xiaomi Redmi 12C 128GB,2.990.000₫,3.990.000₫,-25%,234,https://www.thegioididong.com/dtdd/xiaomi-redmi-12c,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 (8GB/128GB),5.090.000₫,5.790.000₫,-12%,366,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-4g,04,Xiaomi Redmi,phone
+Xiaomi Redmi A1,1.790.000₫,2.190.000₫,-18%,189,https://www.thegioididong.com/dtdd/xiaomi-redmi-a1,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 Pro 5G,8.790.000₫,9.490.000₫,-7%,,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-pro-5g,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 Pro 256GB,7.390.000₫,7.990.000₫,-7%,49,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-pro-4g-256gb,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 Pro 128GB,6.590.000₫,7.190.000₫,-8%,134,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-pro-4g,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 (8GB/256GB),5.990.000₫,6.490.000₫,-7%,16,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-8gb-256gb,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12S,5.890.000₫,6.690.000₫,-11%,38,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12s,04,Xiaomi Redmi,phone
+Xiaomi Redmi Note 12 (4GB/128GB),4.390.000₫,4.990.000₫,-12%,,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-12-4gb,04,Xiaomi Redmi,phone
+Xiaomi Redmi 12 4GB,3.790.000₫,4.290.000₫,-11%,447,https://www.thegioididong.com/dtdd/xiaomi-redmi-12-4gb,04,Xiaomi Redmi,phone
+Xiaomi Redmi 12C 64GB,2.590.000₫,3.590.000₫,-27%,177,https://www.thegioididong.com/dtdd/xiaomi-redmi-12c-64gb,04,Xiaomi Redmi,phone
+Xiaomi Redmi A2+,2.390.000₫,2.790.000₫,-14%,69,https://www.thegioididong.com/dtdd/xiaomi-redmi-a2-plus,04,Xiaomi Redmi,phone
+Xiaomi Redmi A2,1.990.000₫,2.190.000₫,-9%,,https://www.thegioididong.com/dtdd/xiaomi-redmi-a2,04,Xiaomi Redmi,phone
+vivo V25E,6.790.000₫,8.490.000₫,-20%,67,https://www.thegioididong.com/dtdd/vivo-v25e,05,vivo V,phone
+vivo V25 Pro 5G,9.990.000₫,13.990.000₫,-28%,40,https://www.thegioididong.com/dtdd/vivo-v25-pro-5g,05,vivo V,phone
+vivo V27e,8.990.000₫,,,37,https://www.thegioididong.com/dtdd/vivo-v27e,05,vivo V,phone
+vivo V25 5G,7.990.000₫,10.490.000₫,-23%,31,https://www.thegioididong.com/dtdd/vivo-v25,05,vivo V,phone
+vivo Y02T,3.290.000₫,,,37,https://www.thegioididong.com/dtdd/vivo-y02t,05,vivo Y,phone
+vivo Y16 128GB,4.190.000₫,4.490.000₫,-6%,106,https://www.thegioididong.com/dtdd/vivo-y16,05,vivo Y,phone
+vivo Y22s 8GB,5.390.000₫,5.990.000₫,-10%,112,https://www.thegioididong.com/dtdd/vivo-y22s-8gb,05,vivo Y,phone
+vivo Y02s 64GB,3.290.000₫,,,55,https://www.thegioididong.com/dtdd/vivo-y02s-64gb,05,vivo Y,phone
+vivo Y02A,2.790.000₫,,,,https://www.thegioididong.com/dtdd/vivo-y02a,05,vivo Y,phone
+vivo Y35,5.490.000₫,6.990.000₫,-21%,74,https://www.thegioididong.com/dtdd/vivo-y35-2022,05,vivo Y,phone
+vivo Y55,5.340.000₫,,,75,https://www.thegioididong.com/dtdd/vivo-y55-2022,05,vivo Y,phone
+vivo Y21s 6GB,4.490.000₫,,,114,https://www.thegioididong.com/dtdd/vivo-y21s-6gb,05,vivo Y,phone
+vivo Y22s 4GB,4.490.000₫,5.290.000₫,-15%,43,https://www.thegioididong.com/dtdd/vivo-y22s-4gb,05,vivo Y,phone
+vivo Y21s 4GB,3.890.000₫,,,,https://www.thegioididong.com/dtdd/vivo-y21s,05,vivo Y,phone
+vivo Y16 64GB,3.390.000₫,3.990.000₫,-15%,52,https://www.thegioididong.com/dtdd/vivo-y16-64gb,05,vivo Y,phone
+vivo Y02s 32GB,2.690.000₫,3.490.000₫,-22%,77,https://www.thegioididong.com/dtdd/vivo-y02s-32gb,05,vivo Y,phone
+vivo Y01,2.390.000₫,,,126,https://www.thegioididong.com/dtdd/vivo-y01,05,vivo Y,phone
+vivo Y02,2.390.000₫,2.790.000₫,-14%,27,https://www.thegioididong.com/dtdd/vivo-y02,05,vivo Y,phone
+vivo T1x,5.290.000₫,,,31,https://www.thegioididong.com/dtdd/vivo-t1x,05,vivo T,phone
+realme C55,4.790.000₫,,,154,https://www.thegioididong.com/dtdd/realme-c55,06,,phone
+realme C30s,2.390.000₫,,,78,https://www.thegioididong.com/dtdd/realme-c30s-2gb,06,,phone
+realme 10,6.890.000₫,7.190.000₫,-4%,50,https://www.thegioididong.com/dtdd/realme-10,06,,phone
+realme 11 Pro+ 5G,14.330.000₫,14.990.000₫,-4%,,https://www.thegioididong.com/dtdd/realme-11-pro-plus-5g,06,,phone
+realme 11 Pro 5G,11.690.000₫,11.990.000₫,,,https://www.thegioididong.com/dtdd/realme-11-pro,06,,phone
+realme 11,7.190.000₫,,,,https://www.thegioididong.com/dtdd/realme-11-128gb,06,,phone
+realme 9i (6GB/128GB),4.590.000₫,,,120,https://www.thegioididong.com/dtdd/realme-9i,06,,phone
+realme C53,3.990.000₫,4.290.000₫,-6%,424,https://www.thegioididong.com/dtdd/realme-c53,06,,phone
+realme C33 (3GB/32GB),2.440.000₫,2.940.000₫,-17%,57,https://www.thegioididong.com/dtdd/realme-c33-3gb,06,,phone
+realme C51,,,,,https://www.thegioididong.com/dtdd/realme-c51,06,,phone
+Nokia G22,3.590.000₫,3.990.000₫,-10%,91,https://www.thegioididong.com/dtdd/nokia-g22,07,,phone
+Nokia 8210 4G,1.590.000₫,,,119,https://www.thegioididong.com/dtdd/nokia-8210-4g,07,,phone
+Nokia 215 4G,990.000₫,,,274,https://www.thegioididong.com/dtdd/nokia-215,07,,phone
+Nokia 110 4G,660.000₫,870.000₫,-24%,166,https://www.thegioididong.com/dtdd/nokia-110-4g,07,,phone
+Nokia 105 4G,650.000₫,820.000₫,-20%,,https://www.thegioididong.com/dtdd/nokia-105-4g,07,,phone
+Masstel FAMI 60 4G,700.000₫,,,137,https://www.thegioididong.com/dtdd/masstel-fami-60,08,,phone
+Masstel Lux 20 4G,650.000₫,,,72,https://www.thegioididong.com/dtdd/masstel-lux-20,08,,phone
+Masstel FAMI 12 4G,620.000₫,,,52,https://www.thegioididong.com/dtdd/masstel-fami-12-4g,08,,phone
+Masstel Lux 10 4G,550.000₫,,,46,https://www.thegioididong.com/dtdd/masstel-lux-10,08,,phone
+Masstel IZI 26 4G,500.000₫,,,,https://www.thegioididong.com/dtdd/masstel-izi-26-4g,08,,phone
+Masstel IZI 10 4G,370.000₫,,,178,https://www.thegioididong.com/dtdd/masstel-izi-10-4g,08,,phone
+Itel L6502,1.590.000₫,2.290.000₫,-30%,92,https://www.thegioididong.com/dtdd/itel-l6502,09,,phone
+Itel L6006,1.390.000₫,1.990.000₫,-30%,74,https://www.thegioididong.com/dtdd/itel-l6006,09,,phone
+Itel it9210,550.000₫,,,117,https://www.thegioididong.com/dtdd/itel-it9210,09,,phone
+Itel it9010,420.000₫,,,80,https://www.thegioididong.com/dtdd/itel-it9010,09,,phone
+Mobell Rock 4 4G,810.000₫,,,68,https://www.thegioididong.com/dtdd/mobell-rock-4,10,,phone
+Mobell F309 4G,760.000₫,,,37,https://www.thegioididong.com/dtdd/mobell-f309,10,,phone
+Mobell M539 4G,700.000₫,,,65,https://www.thegioididong.com/dtdd/mobell-m539,10,,phone
+Mobell F209 4G,620.000₫,,,25,https://www.thegioididong.com/dtdd/mobell-f209,10,,phone
+Mobell M239 4G,390.000₫,500.000₫,-22%,,https://www.thegioididong.com/dtdd/mobell-m239,10,,phone
